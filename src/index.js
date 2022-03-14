@@ -4,6 +4,7 @@ import NavBar from './NavBar';
 import Corpo from './Corpo';
 import Rodape from './Rodape';
 
+
 function App(){
     return(
         <div>
