@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.deca96ca.chunk.js",
-    "main.js.map": "/static/js/main.deca96ca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa2ed49f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa2ed49f.js.map",
-    "static/js/2.77f32094.chunk.js": "/static/js/2.77f32094.chunk.js",
-    "static/js/2.77f32094.chunk.js.map": "/static/js/2.77f32094.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.77f32094.chunk.js.LICENSE.txt": "/static/js/2.77f32094.chunk.js.LICENSE.txt"
+    "main.js": "/projeto7-instagram-react/static/js/main.deca96ca.chunk.js",
+    "main.js.map": "/projeto7-instagram-react/static/js/main.deca96ca.chunk.js.map",
+    "runtime-main.js": "/projeto7-instagram-react/static/js/runtime-main.cfa25287.js",
+    "runtime-main.js.map": "/projeto7-instagram-react/static/js/runtime-main.cfa25287.js.map",
+    "static/js/2.77f32094.chunk.js": "/projeto7-instagram-react/static/js/2.77f32094.chunk.js",
+    "static/js/2.77f32094.chunk.js.map": "/projeto7-instagram-react/static/js/2.77f32094.chunk.js.map",
+    "index.html": "/projeto7-instagram-react/index.html",
+    "static/js/2.77f32094.chunk.js.LICENSE.txt": "/projeto7-instagram-react/static/js/2.77f32094.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa2ed49f.js",
+    "static/js/runtime-main.cfa25287.js",
     "static/js/2.77f32094.chunk.js",
     "static/js/main.deca96ca.chunk.js"
   ]
