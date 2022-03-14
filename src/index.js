@@ -1,16 +1,16 @@
 import ReactDOM from 'react-dom';
 
-import NavBar from './NavBar';
-import Corpo from './Corpo';
-import Rodape from './Rodape';
+import NavBar from './components/NavBar';
+import Main from './components/Main';
+import MobileFooter from './components/MobileFooter';
 
 
 function App(){
     return(
         <div>
             <NavBar />
-            <Corpo />
-            <Rodape />
+            <Main />
+            <MobileFooter />
         </div>
     )
 }
